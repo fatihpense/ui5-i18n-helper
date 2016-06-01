@@ -1,0 +1,27 @@
+{
+    "name": "ui5-i18n-helper",
+    "version": "0.1.0",
+    "description": "Command line tool that helps i18n process in openui5 projects. It shows inconsistencies between i18n propery files and view xml files by creating a .help.propery file for each .property file.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "ui5i18n": "./bin/ui5i18n.js"
+    },
+    "dependencies": {
+        "xmldom": "^0.1.0"
+    },
+    "keywords": [
+        "ui5",
+        "helper",
+        "openui5",
+        "fiori",
+        "i18n",
+        "internationalization",
+        "internationalisation"
+    ],
+    "repository": {"type": "git","url": "git://github.com/fatihpense/ui5-i18n-helper.git"},
+    "author": "Fatih Pense",
+    "license": "MIT"
+}
