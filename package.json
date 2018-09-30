@@ -21,7 +21,10 @@
         "internationalization",
         "internationalisation"
     ],
-    "repository": {"type": "git","url": "git://github.com/fatihpense/ui5-i18n-helper.git"},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/fatihpense/ui5-i18n-helper.git"
+    },
     "author": "Fatih Pense",
     "license": "MIT"
 }
